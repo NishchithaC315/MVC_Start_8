@@ -2,7 +2,7 @@
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-// new change
+// new change 2
 
 var app = builder.Build();
 
